@@ -1,0 +1,66 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding: 50px;
+    width: 1500px; 
+    margin: auto;
+}
+
+/* Montserrat is the font for all pages */
+ 
+h1 {
+    
+    font-size: 50px;
+    font-weight: 100px; 
+    background-position: center;
+    font-family: 'Montserrat', sans-serif;
+      
+}
+
+p {
+    
+    font-size: 20px;
+}
+
+.header {
+    
+    padding-top: 50px; 
+    padding-bottom:50px;
+    width:75%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    
+}
+
+/*the images are strange but I will fix them post project code*/
+
+img {
+    width:50%;
+}
+
+/* this is meant to be a clean navigation and all linked pages go under projects link */
+
+
+.navigation a {
+    color: black;
+    text-decoration: none;
+    padding:20px;
+
+}
+
+/*flexed the elements but size is still off */
+
+.parent {
+   display: flex;
+   background-color:#eef7fa;
+   width: 100%;
+  
+}
+
+.aboutme {
+    
+    background-color: #f6fbfc;
+}
+
+/*I like CSS, it adds so much style */
+    
